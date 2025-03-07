@@ -1,11 +1,11 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">A Full Stack Web Developer and Machine Learning enthusiast from Pakistan</h3>
+<h3 align="center">A Full Stack Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898108/file/still-2922cb3ec3706c1517028eefd9feecce.gif?resize=400x0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-2405&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-2405" /> </p>
 
-- 🌱 I’m currently learning **React Native, Neural networks and advanced machine learning techniques**
+- 🌱 I’m currently learning **AWS cloud services and how to integrate them with applications using DevOps practices.**
 
 - 💬 Ask me about **MongoDB , SQL**
 

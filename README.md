@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-2405&show_icons=true&locale=en&layout=compact" alt="hammad-2405" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-2405&theme=default" alt="hammad-2405" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=hammad-2405" alt="hammad-2405" /></p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hammad-2405&theme=default" alt="github-profile-summary" />

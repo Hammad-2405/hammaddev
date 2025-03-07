@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-2405&show_icons=true&locale=en&layout=compact" alt="hammad-2405" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-2405&show_icons=true&locale=en" alt="hammad-2405" /></p>
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hammad-2405&theme=tokyonight)
